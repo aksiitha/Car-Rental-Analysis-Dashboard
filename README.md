@@ -35,8 +35,8 @@ The project includes multiple interactive pages in Power BI — Overview, Bookin
 - Enables comparison between different car brands and their contributions
 
 # Key Insights
-1️) Audi and BMW are the top-performing brands in terms of revenue.
-2️) The highest revenue month shows a 17% rental growth compared to previous months.
-3) Most rentals are marked as Completed (68%), showing high operational efficiency.
-4️) Interactive navigation and visuals make data interpretation quick and clear.
-5️) Helps the business identify low-performing vehicles and optimize fleet utilization.
+- Audi and BMW are the top-performing brands in terms of revenue.
+- The highest revenue month shows a 17% rental growth compared to previous months.
+- Most rentals are marked as Completed (68%), showing high operational efficiency.
+- Interactive navigation and visuals make data interpretation quick and clear.
+- Helps the business identify low-performing vehicles and optimize fleet utilization.
