@@ -5,24 +5,24 @@ The dashboard enables decision-makers to monitor business KPIs, identify growth 
 The project includes multiple interactive pages in Power BI — Overview, Bookings, and Units — designed with a modern, clean, and visually appealing layout.
 
 # Objectives
-1️) Analyze monthly revenue, bookings, and rental trends to identify business performance patterns.
-2️) Evaluate car make and model performance based on rentals and revenue contribution.
-3️) Track ongoing, completed, and booked rentals through an interactive donut and bar visuals.
-4️) Enhance business decision-making through data storytelling and visual insights.
+- Analyze monthly revenue, bookings, and rental trends to identify business performance patterns.
+- Evaluate car make and model performance based on rentals and revenue contribution.
+- Track ongoing, completed, and booked rentals through an interactive donut and bar visuals.
+- Enhance business decision-making through data storytelling and visual insights.
 
 # Tools & Technologies
-1️) Power BI – Data modeling, dashboard design, and visualization
-2️) Power Query – Data transformation and cleaning
-3️) DAX – Used to create custom calculations and KPIs
-4️) Excel – Data preprocessing and organization
-5️) GitHub – For project documentation and version control
+- Power BI – Data modeling, dashboard design, and visualization
+- Power Query – Data transformation and cleaning
+- DAX – Used to create custom calculations and KPIs
+- Excel – Data preprocessing and organization
+- GitHub – For project documentation and version control
 
 # Dashboard Features
 # Overview Dashboard
-1) Displays Revenue, Rentals, New Bookings, and Vehicles KPIs
-2) Shows Revenue and Rental Trends over time
-3) Highlights Car with the Highest Revenue
-4) Visualizes Revenue by Make (Audi, BMW, Tesla, etc.)
+- Displays Revenue, Rentals, New Bookings, and Vehicles KPIs
+- Shows Revenue and Rental Trends over time
+- Highlights Car with the Highest Revenue
+- Visualizes Revenue by Make (Audi, BMW, Tesla, etc.)
 
 # Bookings Dashboard
 - Monitors Ongoing, Completed, and Booked Rentals
