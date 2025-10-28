@@ -40,6 +40,3 @@ The project includes multiple interactive pages in Power BI — Overview, Bookin
 3) Most rentals are marked as Completed (68%), showing high operational efficiency.
 4️) Interactive navigation and visuals make data interpretation quick and clear.
 5️) Helps the business identify low-performing vehicles and optimize fleet utilization.
-3️⃣ Most rentals are marked as Completed (68%), showing high operational efficiency.
-4️⃣ Interactive navigation and visuals make data interpretation quick and clear.
-5️⃣ Helps the business identify low-performing vehicles and optimize fleet utilization.
